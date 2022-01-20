@@ -26,7 +26,6 @@
 <br />
 <div align="center">
   <a href="https://github.com/sanduler/Secret-Auction">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Hangman Game</h3>
@@ -112,7 +111,8 @@ This is an example of how to list things you need to use the software and how to
 
 <p align="center"><a>Pictures of the game in actions are shown:</a></p>
 <a href="https://github.com/sanduler/Secret-Auction">
-    <img src="images/game.png" alt="Pictures">
+    <img src="images/game1.png" alt="Pictures">
+    <img src="images/game2.png" alt="Pictures">
   </a>
 
 _For more examples, please refer to the [Documentation](https://example.com)_
@@ -152,4 +152,4 @@ Project Link: [https://github.com/sanduler/Secret-Auction](https://github.com/sa
 [license-url]: https://github.com/sanduler/repo_name/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: images/diagram.png
