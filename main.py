@@ -15,3 +15,9 @@ while True:
     again = input("Are there any other bidders? Type 'yes or 'no'.\n").lower()
     if again == "no":
         break
+winner = "0"
+for amount in auction:
+    if auction[amount] > winner:
+        winner = auction[amount]
+
+print(f"The winner is xd with a bid of ${winner}")
