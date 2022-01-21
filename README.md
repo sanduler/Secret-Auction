@@ -28,7 +28,7 @@
   <a href="https://github.com/sanduler/Secret-Auction">
   </a>
 
-<h3 align="center">Hangman Game</h3>
+<h3 align="center">Secret Auction Simulator</h3>
 
   <p align="center">
     A simple auction game where users and bid amount are stored in a dictionary. Then the bid amount us compared and the winner with the highest bid is returned.
